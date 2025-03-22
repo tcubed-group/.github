@@ -1,40 +1,24 @@
 ## Welcome to TCubed Community 🚀
 
-We're a dynamic tech community at the intersection of innovation and implementation, focusing on cutting-edge technology trends and practical solutions.
+We're a dynamic tech community at the intersection of innovation and implementation, focusing on cutting-edge technology trends and practical solutions. Our community brings together passionate technologists, developers, and innovators to create meaningful impact through technology.
 
 ### 🌟 What We're About
 
-- **Development Excellence**: Full-stack, mobile, and web development expertise
-- **AI & Machine Learning**: Exploring and implementing AI solutions
-- **DevOps & Cloud**: Modern infrastructure and deployment practices
-- **ETL & Data Engineering**: Building robust data pipelines and transformations
-- **Consulting & Solutions**: Professional guidance and custom solutions
-- **Rapid Prototyping**: Quick concept-to-MVP development
-- **Product Innovation**: Building and scaling digital products
+Discover the core strengths and expertise that make TCubed Community a hub for technological innovation and excellence.
+
+[View our core competencies](sections/core-competencies.md)
 
 ### 🤝 Get Involved
 
-We welcome contributors, innovators, and tech enthusiasts! Here's how you can join us:
+Join our vibrant community of tech enthusiasts and contribute to shaping the future of technology through collaboration and knowledge sharing.
 
-- 💡 Share your ideas and concepts
-- 🔧 Contribute to our open-source projects
-- 📚 Learn from our community resources
-- 🌐 Network with fellow tech professionals
-
-### 📚 Resources
-
-- Documentation: [Coming Soon]
-- Blog: [Coming Soon]
-- Community Forums: [Coming Soon]
+[Learn how to contribute](sections/get-involved.md)
 
 ### 🔥 Current Focus Areas
 
-- AI/ML Integration in Traditional Systems
-- Modern Web Technologies (Next.js, React, Vue)
-- Mobile Development (React Native, Flutter)
-- Cloud-Native Solutions
-- Data Engineering & ETL Pipelines
-- Rapid Prototyping & MVP Development
+Explore the cutting-edge domains where we're actively developing solutions and pushing the boundaries of technology.
+
+[Explore our focus areas](sections/focus-areas.md)
 
 ---
 
