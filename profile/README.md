@@ -29,10 +29,9 @@ We specialize in building digital solutions for key sectors, with deep domain kn
 
 We leverage cutting-edge technologies and creative approaches to develop solutions that keep our clients ahead of the digital curve:
 
-- Modern Web Development
-- Cybersecurity
-- Data Analytics
-- Intelligent Automation
+- Modern Web and Mobile Development
+- Artificial Intelligence and Machine Learning
+- Data Analytics and Intelligent Automation
 
 [View our portfolio](https://www.tcubed.group/portfolio)
 
