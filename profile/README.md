@@ -1,31 +1,47 @@
-## Welcome to TCubed Community 🚀
+## Welcome to TCubed Group 🚀
 
-We're a dynamic tech community at the intersection of innovation and implementation, focusing on cutting-edge technology trends and practical solutions. Our community brings together passionate technologists, developers, and innovators to create meaningful impact through technology.
+We're a dynamic tech company helping you connect, grow, and succeed in a digital world. We make technology simple and powerful whether you're a school, healthcare provider, children's service, or a local business. Our solutions help you connect with your community, save time, and grow.
 
 ### 🌟 What We're About
 
-Discover the core strengths and expertise that make TCubed Community a hub for technological innovation and excellence.
+At TCubed Group, we provide specialized services designed to enhance your digital presence, create innovative applications, and support your business growth, with expertise in:
 
-[View our core competencies](sections/core-competencies.md)
+- Mobile Apps
+- SaaS Solutions
+- E-commerce (Shopify)
+- Local Business Solutions
+- AI & Machine Learning
 
-### 🤝 Get Involved
+[View our services](https://www.tcubed.group/services)
 
-Join our vibrant community of tech enthusiasts and contribute to shaping the future of technology through collaboration and knowledge sharing.
+### 🤝 Our Industry Expertise
 
-[Learn how to contribute](sections/get-involved.md)
+We specialize in building digital solutions for key sectors, with deep domain knowledge and understanding of unique industry challenges:
+
+- Education
+- Healthcare
+- Children's Services
+- Fintech
+
+[Explore our sectors](https://www.tcubed.group/sectors)
 
 ### 🔥 Current Focus Areas
 
-Explore the cutting-edge domains where we're actively developing solutions and pushing the boundaries of technology.
+We leverage cutting-edge technologies and creative approaches to develop solutions that keep our clients ahead of the digital curve:
 
-[Explore our focus areas](sections/focus-areas.md)
+- Modern Web Development
+- Cybersecurity
+- Data Analytics
+- Intelligent Automation
+
+[View our portfolio](https://www.tcubed.group/portfolio)
 
 ---
 
 <div align="center">
 
-**Join us in shaping the future of technology!**
+**Ready to build something amazing? Contact us today!**
 
-[Website Coming Soon] | [GitHub] | [LinkedIn]
+[Website](https://www.tcubed.group) | [GitHub](https://github.com/tcubed-group) | [Email: hello@tcubed.group]
 
 </div>
